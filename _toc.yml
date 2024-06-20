@@ -6,4 +6,9 @@ parts:
       - file: notebooks/how-to-cite
   - caption: Introduction
     chapters:
-      - file: notebooks/notebook-template
+      - file: notebooks/wavelet-introduction/wavelet-basics
+  - caption: Example Workflows
+    chapters:
+      - file: notebooks/example-workflows/jingle-bells
+      - file: notebooks/example-workflows/spy-sounds
+      - file: notebooks/example-workflows/nino3
