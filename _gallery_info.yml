@@ -1,0 +1,17 @@
+thumbnail: thumbnail.png
+tags:
+  domains:
+    - signal analysis
+    - wavelet
+    - data science
+    - fourier transform
+  packages:
+    - geocat-datafiles
+    - numpy
+    - xarray
+    - matplotlib
+    - scipy
+    - pandas
+    - pywavelets
+  events:
+    - Cook-off 2024
